@@ -1,6 +1,4 @@
-# cv-rbe549-camera-calibration
-
-# AutoCalib: Zhang's Camera Calibration
+# cv-rbe549-camera-calibration - AutoCalib: Zhang's Camera Calibration
 
 ## Introduction:
 
